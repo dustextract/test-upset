@@ -1,0 +1,1757 @@
+﻿[
+    {
+        "Species": "Mouse",
+        "Mousemodel": "C57Bl/6J",
+        "Organ": "Aorta",
+        "Condition": "High salt, fat and glucose diet",
+        "IMECs marker (gene name)": "IL33",
+        "Gene family": "Interleukins",
+        "PMID": "34692110",
+        "Vasculature": "Coronary"
+    },
+    {
+        "Species": "Mouse",
+        "Mousemodel": "ApoE-/- (C57BL/6 J Background)",
+        "Organ": "Aorta",
+        "Condition": "Atherosclerosis",
+        "IMECs marker (gene name)": "CXCL12",
+        "Gene family": "C-X-C motif chemokine ligand",
+        "PMID": "35772647",
+        "Vasculature": "Coronary"
+    },
+    {
+        "Species": "Human",
+        "Mousemodel": "N/A",
+        "Organ": "Blood vessels",
+        "Condition": "Diabetes",
+        "IMECs marker (gene name)": "CCL2",
+        "Gene family": "C-C Motif Chemokine Ligand",
+        "PMID": "35837599",
+        "Vasculature": "Coronary"
+    },
+    {
+        "Species": "Human",
+        "Mousemodel": "N/A",
+        "Organ": "Blood vessels",
+        "Condition": "Diabetes",
+        "IMECs marker (gene name)": "FN1",
+        "Gene family": "Fibronectins",
+        "PMID": "35837599",
+        "Vasculature": "Coronary"
+    },
+    {
+        "Species": "Mouse",
+        "Mousemodel": "\"C57BL/6J"
+    },
+    {
+        "Species": "LPS-treated\"",
+        "Mousemodel": "Blood vessels",
+        "Organ": "Induced acute inflammation",
+        "Condition": "ICAM1",
+        "IMECs marker (gene name)": "Intercellular Adhesion Molecules",
+        "Gene family": "28621310",
+        "PMID": "Systemic"
+    },
+    {
+        "Species": "Mouse",
+        "Mousemodel": "\"C57BL/6J"
+    },
+    {
+        "Species": "LPS-treated\"",
+        "Mousemodel": "Blood vessels",
+        "Organ": "Induced acute inflammation",
+        "Condition": "VCAM1",
+        "IMECs marker (gene name)": "Vascular Adhesion Molecules",
+        "Gene family": "28621310",
+        "PMID": "Systemic"
+    },
+    {
+        "Species": "Mouse",
+        "Mousemodel": "\"C57BL/6J"
+    },
+    {
+        "Species": "LPS-treated\"",
+        "Mousemodel": "Blood vessels",
+        "Organ": "Induced acute inflammation",
+        "Condition": "SELE",
+        "IMECs marker (gene name)": "Selectins",
+        "Gene family": "28621310",
+        "PMID": "Systemic"
+    },
+    {
+        "Species": "Mouse",
+        "Mousemodel": "\"C57BL/6J"
+    },
+    {
+        "Species": "LPS-treated\"",
+        "Mousemodel": "Blood vessels",
+        "Organ": "Induced acute inflammation",
+        "Condition": "Darc",
+        "IMECs marker (gene name)": "Duffy antigen receptors",
+        "Gene family": "28621310",
+        "PMID": "Systemic"
+    },
+    {
+        "Species": "Mouse",
+        "Mousemodel": "\"C57BL/6J"
+    },
+    {
+        "Species": "LPS-treated\"",
+        "Mousemodel": "Blood vessels",
+        "Organ": "Induced acute inflammation",
+        "Condition": "Ccrl2 ",
+        "IMECs marker (gene name)": "C-C Motif Chemokine Receptor Like",
+        "Gene family": "28621310",
+        "PMID": "Systemic"
+    },
+    {
+        "Species": "Mouse",
+        "Mousemodel": "\"C57BL/6J"
+    },
+    {
+        "Species": "LPS-treated\"",
+        "Mousemodel": "Blood vessels",
+        "Organ": "Induced acute inflammation",
+        "Condition": "Cxcr7",
+        "IMECs marker (gene name)": "C-X-C Motif Chemokine Receptor",
+        "Gene family": "28621310",
+        "PMID": "Systemic"
+    },
+    {
+        "Species": "Mouse",
+        "Mousemodel": "\"C57BL/6J"
+    },
+    {
+        "Species": "ApoE-deficient\"",
+        "Mousemodel": "Blood vessels",
+        "Organ": "Chronic vascular inflammation (atherosclerosis)",
+        "Condition": "ICAM1",
+        "IMECs marker (gene name)": "Intercellular Adhesion Molecules",
+        "Gene family": "",
+        "PMID": "Systemic"
+    },
+    {
+        "Species": "Mouse",
+        "Mousemodel": "\"C57BL/6J"
+    },
+    {
+        "Species": "ApoE-deficient\"",
+        "Mousemodel": "Blood vessels",
+        "Organ": "Chronic vascular inflammation (atherosclerosis)",
+        "Condition": "VCAM1",
+        "IMECs marker (gene name)": "Vascular Adhesion Molecules",
+        "Gene family": "",
+        "PMID": "Systemic"
+    },
+    {
+        "Species": "Mouse",
+        "Mousemodel": "\"C57BL/6J"
+    },
+    {
+        "Species": "ApoE-deficient\"",
+        "Mousemodel": "Blood vessels",
+        "Organ": "Chronic vascular inflammation (atherosclerosis)",
+        "Condition": "IL6",
+        "IMECs marker (gene name)": "Interleukins",
+        "Gene family": "",
+        "PMID": "Systemic"
+    },
+    {
+        "Species": "Human",
+        "Mousemodel": "N/A",
+        "Organ": "Aorta",
+        "Condition": "Healthy",
+        "IMECs marker (gene name)": "ICAM1",
+        "Gene family": "Intercellular Adhesion Molecules",
+        "PMID": "33626908",
+        "Vasculature": "Coronary"
+    },
+    {
+        "Species": "Human",
+        "Mousemodel": "N/A",
+        "Organ": "Aorta",
+        "Condition": "Healthy",
+        "IMECs marker (gene name)": "VCAM1",
+        "Gene family": "Vascular Adhesion Molecules",
+        "PMID": "33626908",
+        "Vasculature": "Coronary"
+    },
+    {
+        "Species": "Human",
+        "Mousemodel": "N/A",
+        "Organ": "Aorta",
+        "Condition": "Healthy",
+        "IMECs marker (gene name)": "ACKR1",
+        "Gene family": "Atypical Chemokine Receptor",
+        "PMID": "33626908",
+        "Vasculature": "Coronary"
+    },
+    {
+        "Species": "Human",
+        "Mousemodel": "N/A",
+        "Organ": "Aorta",
+        "Condition": "Healthy",
+        "IMECs marker (gene name)": "CCL14",
+        "Gene family": "C-C Motif Chemokine Ligand",
+        "PMID": "33626908",
+        "Vasculature": "Coronary"
+    },
+    {
+        "Species": "Human",
+        "Mousemodel": "N/A",
+        "Organ": "Aorta",
+        "Condition": "Healthy",
+        "IMECs marker (gene name)": "SELE",
+        "Gene family": "Selectin ",
+        "PMID": "33626908",
+        "Vasculature": "Coronary"
+    },
+    {
+        "Species": "Human",
+        "Mousemodel": "N/A",
+        "Organ": "Carotid artery",
+        "Condition": "Atherosclerosis",
+        "IMECs marker (gene name)": "ESAM",
+        "Gene family": "Endothelial Cell Adhesion Molecule",
+        "PMID": "35174364",
+        "Vasculature": "Coronary"
+    },
+    {
+        "Species": "Human",
+        "Mousemodel": "N/A",
+        "Organ": "Carotid artery",
+        "Condition": "Atherosclerosis",
+        "IMECs marker (gene name)": "SLC44A2",
+        "Gene family": "Choline transporter-like protein",
+        "PMID": "35174364",
+        "Vasculature": "Coronary"
+    },
+    {
+        "Species": "Human",
+        "Mousemodel": "N/A",
+        "Organ": "Carotid artery",
+        "Condition": "Atherosclerosis",
+        "IMECs marker (gene name)": "CALCRL",
+        "Gene family": "calcitonin receptor like receptor",
+        "PMID": "35174364",
+        "Vasculature": "Coronary"
+    },
+    {
+        "Species": "Human",
+        "Mousemodel": "N/A",
+        "Organ": "Carotid artery",
+        "Condition": "Plaques",
+        "IMECs marker (gene name)": "HLA-DRB5",
+        "Gene family": "Human leukocyte antigens",
+        "PMID": "35527426",
+        "Vasculature": "Coronary"
+    },
+    {
+        "Species": "Human",
+        "Mousemodel": "N/A",
+        "Organ": "Carotid artery",
+        "Condition": "Plaques",
+        "IMECs marker (gene name)": "HLA-E",
+        "Gene family": "Human leukocyte antigens",
+        "PMID": "35527426",
+        "Vasculature": "Coronary"
+    },
+    {
+        "Species": "Human",
+        "Mousemodel": "N/A",
+        "Organ": "Carotid artery",
+        "Condition": "Plaques",
+        "IMECs marker (gene name)": "CTSS",
+        "Gene family": "Cathepsins",
+        "PMID": "35527426",
+        "Vasculature": "Coronary"
+    },
+    {
+        "Species": "Human",
+        "Mousemodel": "N/A",
+        "Organ": "Carotid artery",
+        "Condition": "Plaques",
+        "IMECs marker (gene name)": "HLA-DRA",
+        "Gene family": "Human leukocyte antigens",
+        "PMID": "35527426",
+        "Vasculature": "Coronary"
+    },
+    {
+        "Species": "Human",
+        "Mousemodel": "N/A",
+        "Organ": "Carotid artery",
+        "Condition": "Plaques",
+        "IMECs marker (gene name)": "CDH5",
+        "Gene family": "Cadherins",
+        "PMID": "35527426",
+        "Vasculature": "Coronary"
+    },
+    {
+        "Species": "Human",
+        "Mousemodel": "N/A",
+        "Organ": "Carotid artery",
+        "Condition": "Plaques",
+        "IMECs marker (gene name)": "NRP2",
+        "Gene family": "Neuropilins",
+        "PMID": "35527426",
+        "Vasculature": "Coronary"
+    },
+    {
+        "Species": "Human",
+        "Mousemodel": "N/A",
+        "Organ": "Carotid artery",
+        "Condition": "Plaques",
+        "IMECs marker (gene name)": "CDH2",
+        "Gene family": "Cadherins",
+        "PMID": "35527426",
+        "Vasculature": "Coronary"
+    },
+    {
+        "Species": "Human",
+        "Mousemodel": "N/A",
+        "Organ": "Carotid artery",
+        "Condition": "Plaques",
+        "IMECs marker (gene name)": "ICAM2",
+        "Gene family": "Intercellular Adhesion Molecules",
+        "PMID": "35527426",
+        "Vasculature": "Coronary"
+    },
+    {
+        "Species": "Human",
+        "Mousemodel": "N/A",
+        "Organ": "Carotid artery",
+        "Condition": "Atherosclerosis",
+        "IMECs marker (gene name)": "NECTIN2",
+        "Gene family": "Nectin Cell Adhesion Molecule",
+        "PMID": "35136728",
+        "Vasculature": "Coronary"
+    },
+    {
+        "Species": "Mouse",
+        "Mousemodel": "C57BL/6J (PCL Mousemodel)",
+        "Organ": "Carotid artery",
+        "Condition": "Atherosclerosis",
+        "IMECs marker (gene name)": "KLK10",
+        "Gene family": "Human kallikreins",
+        "PMID": "35014606",
+        "Vasculature": "Coronary"
+    },
+    {
+        "Species": "Human",
+        "Mousemodel": "N/A",
+        "Organ": "Heart",
+        "Condition": "Low & oscillatory shear stress (OSS)",
+        "IMECs marker (gene name)": "VCAM-1",
+        "Gene family": "Vascular Adhesion Molecules",
+        "PMID": "34417174",
+        "Vasculature": "Coronary"
+    },
+    {
+        "Species": "Human",
+        "Mousemodel": "N/A",
+        "Organ": "Heart",
+        "Condition": "Low & oscillatory shear stress (OSS)",
+        "IMECs marker (gene name)": "ICAM-1",
+        "Gene family": "Intercellular Adhesion Molecules",
+        "PMID": "34417174",
+        "Vasculature": "Coronary"
+    },
+    {
+        "Species": "Human",
+        "Mousemodel": "N/A",
+        "Organ": "Heart",
+        "Condition": "Low & oscillatory shear stress (OSS)",
+        "IMECs marker (gene name)": "CXCL8",
+        "Gene family": "C-X-C motif chemokine ligand",
+        "PMID": "34417174",
+        "Vasculature": "Coronary"
+    },
+    {
+        "Species": "Human",
+        "Mousemodel": "N/A",
+        "Organ": "Heart",
+        "Condition": "Low & oscillatory shear stress (OSS)",
+        "IMECs marker (gene name)": "IL1B",
+        "Gene family": "Interleukins",
+        "PMID": "34417174",
+        "Vasculature": "Coronary"
+    },
+    {
+        "Species": "Mouse",
+        "Mousemodel": "\"db/db mice"
+    },
+    {
+        "Species": "Sco2KO/KI"
+    },
+    {
+        "Species": "Sco2KI/KI\"",
+        "Mousemodel": "Kidney",
+        "Organ": "DKD",
+        "Condition": "Icam1",
+        "IMECs marker (gene name)": "Intercellular Adhesion Molecules",
+        "Gene family": "34957485",
+        "PMID": "Systemic"
+    },
+    {
+        "Species": "Mouse",
+        "Mousemodel": "\"db/db mice"
+    },
+    {
+        "Species": "Sco2KO/KI"
+    },
+    {
+        "Species": "Sco2KI/KI\"",
+        "Mousemodel": "Kidney",
+        "Organ": "DKD",
+        "Condition": "Vcam1",
+        "IMECs marker (gene name)": "Vascular Adhesion Molecules",
+        "Gene family": "34957485",
+        "PMID": "Systemic"
+    },
+    {
+        "Species": "Human",
+        "Mousemodel": "N/A",
+        "Organ": "Heart",
+        "Condition": "Dilated cardiomyopathy",
+        "IMECs marker (gene name)": "ACKR1",
+        "Gene family": "Atypical Chemokine Receptor",
+        "PMID": "34733953",
+        "Vasculature": "Coronary"
+    },
+    {
+        "Species": "Human",
+        "Mousemodel": "N/A",
+        "Organ": "Heart",
+        "Condition": "Dilated cardiomyopathy",
+        "IMECs marker (gene name)": "MCP-1",
+        "Gene family": "Monocyte Chemoattractant Protein",
+        "PMID": "34733953",
+        "Vasculature": "Coronary"
+    },
+    {
+        "Species": "Human",
+        "Mousemodel": "N/A",
+        "Organ": "Heart",
+        "Condition": "Dilated cardiomyopathy",
+        "IMECs marker (gene name)": "CXCL1",
+        "Gene family": "C-X-C motif chemokine ligand",
+        "PMID": "34733953",
+        "Vasculature": "Coronary"
+    },
+    {
+        "Species": "Human",
+        "Mousemodel": "N/A",
+        "Organ": "Heart",
+        "Condition": "Dilated cardiomyopathy",
+        "IMECs marker (gene name)": "CXCL8",
+        "Gene family": "C-X-C motif chemokine ligand",
+        "PMID": "34733953",
+        "Vasculature": "Coronary"
+    },
+    {
+        "Species": "Human",
+        "Mousemodel": "N/A",
+        "Organ": "Heart",
+        "Condition": "IschemicHeartfailure",
+        "IMECs marker (gene name)": "IL1B ",
+        "Gene family": "Interleukins",
+        "PMID": "34172720",
+        "Vasculature": "Coronary"
+    },
+    {
+        "Species": "Human",
+        "Mousemodel": "N/A",
+        "Organ": "Heart",
+        "Condition": "IschemicHeartfailure",
+        "IMECs marker (gene name)": "MYC",
+        "Gene family": "MYC gene family",
+        "PMID": "34172720",
+        "Vasculature": "Coronary"
+    },
+    {
+        "Species": "Human",
+        "Mousemodel": "N/A",
+        "Organ": "Heart",
+        "Condition": "Heartfailure",
+        "IMECs marker (gene name)": "CD74",
+        "Gene family": "Cluster of Differentiation genes",
+        "PMID": "35071201",
+        "Vasculature": "Coronary"
+    },
+    {
+        "Species": "Human",
+        "Mousemodel": "N/A",
+        "Organ": "Heart",
+        "Condition": "Heartfailure",
+        "IMECs marker (gene name)": "HLA-B",
+        "Gene family": "Human leukocyte antigens",
+        "PMID": "35071201",
+        "Vasculature": "Coronary"
+    },
+    {
+        "Species": "Human",
+        "Mousemodel": "N/A",
+        "Organ": "Heart",
+        "Condition": "Heartfailure",
+        "IMECs marker (gene name)": "HLA-E",
+        "Gene family": "Human leukocyte antigens",
+        "PMID": "35071201",
+        "Vasculature": "Coronary"
+    },
+    {
+        "Species": "Human",
+        "Mousemodel": "N/A",
+        "Organ": "Heart",
+        "Condition": "Heartfailure",
+        "IMECs marker (gene name)": "HLA-DRB1",
+        "Gene family": "Human leukocyte antigens",
+        "PMID": "35071201",
+        "Vasculature": "Coronary"
+    },
+    {
+        "Species": "Human",
+        "Mousemodel": "N/A",
+        "Organ": "Heart",
+        "Condition": "Heartfailure",
+        "IMECs marker (gene name)": "HLA-DQA1",
+        "Gene family": "Human leukocyte antigens",
+        "PMID": "35071201",
+        "Vasculature": "Coronary"
+    },
+    {
+        "Species": "Human",
+        "Mousemodel": "N/A",
+        "Organ": "Heart",
+        "Condition": "Heartfailure",
+        "IMECs marker (gene name)": "HES1 ",
+        "Gene family": "hes family",
+        "PMID": "35071201",
+        "Vasculature": "Coronary"
+    },
+    {
+        "Species": "Human",
+        "Mousemodel": "N/A",
+        "Organ": "Heart",
+        "Condition": "Heartfailure",
+        "IMECs marker (gene name)": "CLDN5",
+        "Gene family": "Claudins ",
+        "PMID": "35071201",
+        "Vasculature": "Coronary"
+    },
+    {
+        "Species": "Human",
+        "Mousemodel": "N/A",
+        "Organ": "Heart",
+        "Condition": "Healthy",
+        "IMECs marker (gene name)": "CX3CL1",
+        "Gene family": "C-X-C motif chemokine ligand",
+        "PMID": "32971526",
+        "Vasculature": "Coronary"
+    },
+    {
+        "Species": "Human",
+        "Mousemodel": "N/A",
+        "Organ": "Heart",
+        "Condition": "Healthy",
+        "IMECs marker (gene name)": "CCL2",
+        "Gene family": "C-C Motif Chemokine Ligand",
+        "PMID": "32971526",
+        "Vasculature": "Coronary"
+    },
+    {
+        "Species": "Human",
+        "Mousemodel": "N/A",
+        "Organ": "Heart",
+        "Condition": "Healthy",
+        "IMECs marker (gene name)": "IL6",
+        "Gene family": "Interleukins",
+        "PMID": "32971526",
+        "Vasculature": "Coronary"
+    },
+    {
+        "Species": "Human",
+        "Mousemodel": "N/A",
+        "Organ": "Heart",
+        "Condition": "Healthy",
+        "IMECs marker (gene name)": "ICAM1",
+        "Gene family": "Intercellular Adhesion Molecules",
+        "PMID": "32971526",
+        "Vasculature": "Coronary"
+    },
+    {
+        "Species": "Mouse",
+        "Mousemodel": "C57BL6/J",
+        "Organ": "Heart",
+        "Condition": "Aging",
+        "IMECs marker (gene name)": "Ptgs2",
+        "Gene family": "Prostaglandin-endoperoxide synthase",
+        "PMID": "35004685",
+        "Vasculature": "Coronary"
+    },
+    {
+        "Species": "Mouse",
+        "Mousemodel": "Apoe-/- C57Bl/6J",
+        "Organ": "Heart",
+        "Condition": "Abdominal Aortic Aneurysms",
+        "IMECs marker (gene name)": "Vcam1",
+        "Gene family": "Vascular Adhesion Molecules",
+        "PMID": "35451888",
+        "Vasculature": "Coronary"
+    },
+    {
+        "Species": "Mouse",
+        "Mousemodel": "Apoe-/- C57Bl/6J",
+        "Organ": "Heart",
+        "Condition": "Abdominal Aortic Aneurysms",
+        "IMECs marker (gene name)": "Icam1",
+        "Gene family": "Intercellular Adhesion Molecules",
+        "PMID": "35451888",
+        "Vasculature": "Coronary"
+    },
+    {
+        "Species": "Mouse",
+        "Mousemodel": "Apoe-/- C57Bl/6J",
+        "Organ": "Heart",
+        "Condition": "Abdominal Aortic Aneurysms",
+        "IMECs marker (gene name)": "Vwf",
+        "Gene family": "von Willebrand factor",
+        "PMID": "35451888",
+        "Vasculature": "Coronary"
+    },
+    {
+        "Species": "Mouse",
+        "Mousemodel": "Apoe-/- C57Bl/6J",
+        "Organ": "Heart",
+        "Condition": "Abdominal Aortic Aneurysms",
+        "IMECs marker (gene name)": "Edn1",
+        "Gene family": "Endothelins",
+        "PMID": "35451888",
+        "Vasculature": "Coronary"
+    },
+    {
+        "Species": "Mouse",
+        "Mousemodel": "Apoe-/- C57Bl/6J",
+        "Organ": "Heart",
+        "Condition": "Abdominal Aortic Aneurysms",
+        "IMECs marker (gene name)": "Serpine1",
+        "Gene family": "Serpin Family",
+        "PMID": "35451888",
+        "Vasculature": "Coronary"
+    },
+    {
+        "Species": "Mouse",
+        "Mousemodel": "Apoe-/- C57Bl/6J",
+        "Organ": "Heart",
+        "Condition": "Abdominal Aortic Aneurysms",
+        "IMECs marker (gene name)": "Ptgis",
+        "Gene family": "Prostaglandin I2 Synthase",
+        "PMID": "35451888",
+        "Vasculature": "Coronary"
+    },
+    {
+        "Species": "Mouse",
+        "Mousemodel": "Apoe-/- C57Bl/6J",
+        "Organ": "Heart",
+        "Condition": "Abdominal Aortic Aneurysms",
+        "IMECs marker (gene name)": "Nos3",
+        "Gene family": "Nitric Oxide Synthase",
+        "PMID": "35451888",
+        "Vasculature": "Coronary"
+    },
+    {
+        "Species": "Mouse",
+        "Mousemodel": "Apoe-/- C57Bl/6J",
+        "Organ": "Heart",
+        "Condition": "Abdominal Aortic Aneurysms",
+        "IMECs marker (gene name)": "Cdh5",
+        "Gene family": "Cadherins",
+        "PMID": "35451888",
+        "Vasculature": "Coronary"
+    },
+    {
+        "Species": "Mouse",
+        "Mousemodel": "S1PR1-GS",
+        "Organ": "Heart",
+        "Condition": "healthy",
+        "IMECs marker (gene name)": "Vcam1",
+        "Gene family": "Vascular Adhesion Molecules",
+        "PMID": "32091396",
+        "Vasculature": "Coronary"
+    },
+    {
+        "Species": "Mouse",
+        "Mousemodel": "S1PR1-GS",
+        "Organ": "Heart",
+        "Condition": "healthy",
+        "IMECs marker (gene name)": "Icam1",
+        "Gene family": "Intercellular Adhesion Molecules",
+        "PMID": "32091396",
+        "Vasculature": "Coronary"
+    },
+    {
+        "Species": "Mouse",
+        "Mousemodel": "S1PR1-GS",
+        "Organ": "Heart",
+        "Condition": "healthy",
+        "IMECs marker (gene name)": "Traf6",
+        "Gene family": "TNF receptor associated factor",
+        "PMID": "32091396",
+        "Vasculature": "Coronary"
+    },
+    {
+        "Species": "Mouse",
+        "Mousemodel": "S1PR1-GS",
+        "Organ": "Heart",
+        "Condition": "healthy",
+        "IMECs marker (gene name)": "Cxcl12",
+        "Gene family": "C-X-C motif chemokine ligand",
+        "PMID": "32091396",
+        "Vasculature": "Coronary"
+    },
+    {
+        "Species": "Mouse",
+        "Mousemodel": "S1PR1-GS",
+        "Organ": "Heart",
+        "Condition": "healthy",
+        "IMECs marker (gene name)": "NFkb1",
+        "Gene family": "Nuclear factor kappa b factor",
+        "PMID": "32091396",
+        "Vasculature": "Coronary"
+    },
+    {
+        "Species": "Mouse",
+        "Mousemodel": "C57BL/6J ",
+        "Organ": "Heart",
+        "Condition": "Healthy",
+        "IMECs marker (gene name)": "Gaj4",
+        "Gene family": "GAJ protein",
+        "PMID": "34859688",
+        "Vasculature": "Coronary"
+    },
+    {
+        "Species": "Mouse",
+        "Mousemodel": "C57BL/6J ",
+        "Organ": "Heart",
+        "Condition": "Healthy",
+        "IMECs marker (gene name)": "ESAM",
+        "Gene family": "Endothelial Cell Adhesion Molecule",
+        "PMID": "34859688",
+        "Vasculature": "Coronary"
+    },
+    {
+        "Species": "Mouse",
+        "Mousemodel": "\"C57BL/6J"
+    },
+    {
+        "Species": "BALB/c \"",
+        "Mousemodel": "Heart",
+        "Organ": "Hearttransplant model",
+        "Condition": "MHC-II",
+        "IMECs marker (gene name)": "MHC class II ",
+        "Gene family": "35222420",
+        "PMID": "Coronary"
+    },
+    {
+        "Species": "Mouse",
+        "Mousemodel": "Cspg4-Cre/Esr",
+        "Organ": "Heart",
+        "Condition": "Heartfaliure",
+        "IMECs marker (gene name)": "Itif1",
+        "Gene family": "Interferon Regulatory Factors",
+        "PMID": "35641541",
+        "Vasculature": "Coronary"
+    },
+    {
+        "Species": "Mouse",
+        "Mousemodel": "Cspg4-Cre/Esr",
+        "Organ": "Heart",
+        "Condition": "Heartfaliure",
+        "IMECs marker (gene name)": "Itif3",
+        "Gene family": "Interferon Regulatory Factors",
+        "PMID": "35641541",
+        "Vasculature": "Coronary"
+    },
+    {
+        "Species": "Mouse",
+        "Mousemodel": "C57/B6",
+        "Organ": "Heart",
+        "Condition": "Aging",
+        "IMECs marker (gene name)": "Vwf",
+        "Gene family": "von Willebrand factor",
+        "PMID": "34097533",
+        "Vasculature": "Coronary"
+    },
+    {
+        "Species": "Mouse",
+        "Mousemodel": "C57/B7",
+        "Organ": "Heart",
+        "Condition": "Aging",
+        "IMECs marker (gene name)": "Ifit1",
+        "Gene family": "Interferon Induced Protein With Tetratricopeptide Repeats",
+        "PMID": "34097533",
+        "Vasculature": "Coronary"
+    },
+    {
+        "Species": "Mouse",
+        "Mousemodel": "C57BL/6 J",
+        "Organ": "Heart",
+        "Condition": "Ductus Arteriosus",
+        "IMECs marker (gene name)": "Vim",
+        "Gene family": "Vimentins",
+        "PMID": "35443793",
+        "Vasculature": "Coronary"
+    },
+    {
+        "Species": "Human",
+        "Mousemodel": "N/A",
+        "Organ": "Heart",
+        "Condition": "Heartfailure",
+        "IMECs marker (gene name)": "CCL2",
+        "Gene family": "C-C Motif Chemokine Ligand",
+        "PMID": "35203611",
+        "Vasculature": "Coronary"
+    },
+    {
+        "Species": "Human",
+        "Mousemodel": "N/A",
+        "Organ": "Heart",
+        "Condition": "Heartfailure",
+        "IMECs marker (gene name)": "CXCL2",
+        "Gene family": "C-X-C motif chemokine ligand",
+        "PMID": "35203611",
+        "Vasculature": "Coronary"
+    },
+    {
+        "Species": "Human",
+        "Mousemodel": "N/A",
+        "Organ": "Heart",
+        "Condition": "Heartfailure",
+        "IMECs marker (gene name)": "TFs",
+        "Gene family": "Transcription factors",
+        "PMID": "35203611",
+        "Vasculature": "Coronary"
+    },
+    {
+        "Species": "Human",
+        "Mousemodel": "N/A",
+        "Organ": "Heart",
+        "Condition": "Atherosclerosis",
+        "IMECs marker (gene name)": "Stab1",
+        "Gene family": "Stabilins",
+        "PMID": "35163719",
+        "Vasculature": "Coronary"
+    },
+    {
+        "Species": "Human",
+        "Mousemodel": "N/A",
+        "Organ": "Heart",
+        "Condition": "Atherosclerosis",
+        "IMECs marker (gene name)": "Bmx",
+        "Gene family": "BMX Non-Receptor Tyrosine Kinase",
+        "PMID": "35163719",
+        "Vasculature": "Coronary"
+    },
+    {
+        "Species": "Human",
+        "Mousemodel": "N/A",
+        "Organ": "Heart",
+        "Condition": "Atherosclerosis",
+        "IMECs marker (gene name)": "Cdh5",
+        "Gene family": "Cadherins",
+        "PMID": "35163719",
+        "Vasculature": "Coronary"
+    },
+    {
+        "Species": "Human",
+        "Mousemodel": "N/A",
+        "Organ": "Heart",
+        "Condition": "Atherosclerosis",
+        "IMECs marker (gene name)": "4-Tie1",
+        "Gene family": "tyrosine kinase with immunoglobulin like and EGF like domains",
+        "PMID": "35163719",
+        "Vasculature": "Coronary"
+    },
+    {
+        "Species": "Human",
+        "Mousemodel": "N/A",
+        "Organ": "Carotid artery",
+        "Condition": "Atherosclerotic plaques",
+        "IMECs marker (gene name)": "VCAM1",
+        "Gene family": "Vascular Adhesion Molecules",
+        "PMID": "32981416",
+        "Vasculature": "Coronary"
+    },
+    {
+        "Species": "Human",
+        "Mousemodel": "N/A",
+        "Organ": "Carotid artery",
+        "Condition": "Atherosclerotic plaques",
+        "IMECs marker (gene name)": "ACKR1",
+        "Gene family": "Atypical Chemokine Receptor",
+        "PMID": "32981416",
+        "Vasculature": "Coronary"
+    },
+    {
+        "Species": "Mouse",
+        "Mousemodel": "C57BL/6 (PCL Mousemodel)",
+        "Organ": "Carotid artery",
+        "Condition": "Proatherogenic disturbed flow",
+        "IMECs marker (gene name)": "Il1β",
+        "Gene family": "Interleukins",
+        "PMID": "33326796",
+        "Vasculature": "Coronary"
+    },
+    {
+        "Species": "Mouse",
+        "Mousemodel": "C57BL/6 (PCL Mousemodel)",
+        "Organ": "Carotid artery",
+        "Condition": "Proatherogenic disturbed flow",
+        "IMECs marker (gene name)": "Il6",
+        "Gene family": "Interleukins",
+        "PMID": "33326796",
+        "Vasculature": "Coronary"
+    },
+    {
+        "Species": "Mouse",
+        "Mousemodel": "C57BL/6 (PCL Mousemodel)",
+        "Organ": "Carotid artery",
+        "Condition": "Proatherogenic disturbed flow",
+        "IMECs marker (gene name)": "Ccl2",
+        "Gene family": "C-C Motif Chemokine Ligand",
+        "PMID": "33326796",
+        "Vasculature": "Coronary"
+    },
+    {
+        "Species": "Mouse",
+        "Mousemodel": "C57BL/6 (PCL Mousemodel)",
+        "Organ": "Carotid artery",
+        "Condition": "Proatherogenic disturbed flow",
+        "IMECs marker (gene name)": "Ccl3",
+        "Gene family": "C-C Motif Chemokine Ligand",
+        "PMID": "33326796",
+        "Vasculature": "Coronary"
+    },
+    {
+        "Species": "Mouse",
+        "Mousemodel": "C57BL/6 (PCL Mousemodel)",
+        "Organ": "Carotid artery",
+        "Condition": "Proatherogenic disturbed flow",
+        "IMECs marker (gene name)": "C1qa",
+        "Gene family": "Complement C1q",
+        "PMID": "33326796",
+        "Vasculature": "Coronary"
+    },
+    {
+        "Species": "Mouse",
+        "Mousemodel": "C57BL/6 (PCL Mousemodel)",
+        "Organ": "Carotid artery",
+        "Condition": "Proatherogenic disturbed flow",
+        "IMECs marker (gene name)": "C1qb",
+        "Gene family": "Complement C1q",
+        "PMID": "33326796",
+        "Vasculature": "Coronary"
+    },
+    {
+        "Species": "Mouse",
+        "Mousemodel": "C57BL/6 (PCL Mousemodel)",
+        "Organ": "Carotid artery",
+        "Condition": "Proatherogenic disturbed flow",
+        "IMECs marker (gene name)": "C5ar1",
+        "Gene family": "complement C5a receptor 1",
+        "PMID": "33326796",
+        "Vasculature": "Coronary"
+    },
+    {
+        "Species": "Mouse",
+        "Mousemodel": "C57BL/6 (PCL Mousemodel)",
+        "Organ": "Carotid artery",
+        "Condition": "Proatherogenic disturbed flow",
+        "IMECs marker (gene name)": "Tnf",
+        "Gene family": "Tumor Necrosis Factors",
+        "PMID": "33326796",
+        "Vasculature": "Coronary"
+    },
+    {
+        "Species": "Mouse",
+        "Mousemodel": "C57BL/6 (PCL Mousemodel)",
+        "Organ": "Carotid artery",
+        "Condition": "Proatherogenic disturbed flow",
+        "IMECs marker (gene name)": "Lyz2",
+        "Gene family": "lysozyme",
+        "PMID": "33326796",
+        "Vasculature": "Coronary"
+    },
+    {
+        "Species": "Mouse",
+        "Mousemodel": "C57BL/6 (PCL Mousemodel)",
+        "Organ": "Carotid artery",
+        "Condition": "Proatherogenic disturbed flow",
+        "IMECs marker (gene name)": "Cd74",
+        "Gene family": "Cluster of Differentiation genes",
+        "PMID": "33326796",
+        "Vasculature": "Coronary"
+    },
+    {
+        "Species": "Mouse",
+        "Mousemodel": "C57BL/6 (PCL Mousemodel)",
+        "Organ": "Carotid artery",
+        "Condition": "Proatherogenic disturbed flow",
+        "IMECs marker (gene name)": "H2-aa",
+        "Gene family": "histocompatibility 2",
+        "PMID": "33326796",
+        "Vasculature": "Coronary"
+    },
+    {
+        "Species": "Mouse",
+        "Mousemodel": "C57BL/6 (PCL Mousemodel)",
+        "Organ": "Carotid artery",
+        "Condition": "Proatherogenic disturbed flow",
+        "IMECs marker (gene name)": "H2-ab1",
+        "Gene family": "histocompatibility 2",
+        "PMID": "33326796",
+        "Vasculature": "Coronary"
+    },
+    {
+        "Species": "Mouse",
+        "Mousemodel": "C57BL/6 (PCL Mousemodel)",
+        "Organ": "Carotid artery",
+        "Condition": "Proatherogenic disturbed flow",
+        "IMECs marker (gene name)": "H2-eb1",
+        "Gene family": "histocompatibility 2",
+        "PMID": "33326796",
+        "Vasculature": "Coronary"
+    },
+    {
+        "Species": "Mouse",
+        "Mousemodel": "C57BL/6 J",
+        "Organ": "Carotid artery",
+        "Condition": "Distrubed flow",
+        "IMECs marker (gene name)": "Dkk2",
+        "Gene family": "Dickkopf WNT Signaling Pathway Inhibitors",
+        "PMID": "34282126",
+        "Vasculature": "Coronary"
+    },
+    {
+        "Species": "Mouse",
+        "Mousemodel": "C57BL/6 J",
+        "Organ": "Carotid artery",
+        "Condition": "Distrubed flow",
+        "IMECs marker (gene name)": "Cd36",
+        "Gene family": "Cluster of Differentiation genes",
+        "PMID": "34282126",
+        "Vasculature": "Coronary"
+    },
+    {
+        "Species": "Mouse",
+        "Mousemodel": "C57BL/6 J",
+        "Organ": "Heart",
+        "Condition": "Heartfailure",
+        "IMECs marker (gene name)": "Cxcl 9",
+        "Gene family": "C-X-C motif chemokine ligand",
+        "PMID": "35219850",
+        "Vasculature": "Coronary"
+    },
+    {
+        "Species": "Mouse",
+        "Mousemodel": "C57BL/6 J",
+        "Organ": "Heart",
+        "Condition": "Heartfailure",
+        "IMECs marker (gene name)": "Cxcl12",
+        "Gene family": "C-X-C motif chemokine ligand",
+        "PMID": "35219850",
+        "Vasculature": "Coronary"
+    },
+    {
+        "Species": "Mouse",
+        "Mousemodel": "C57BL/6 J",
+        "Organ": "Heart",
+        "Condition": "Heartfailure",
+        "IMECs marker (gene name)": "Ccl21a",
+        "Gene family": "C-C Motif Chemokine Ligand",
+        "PMID": "35219850",
+        "Vasculature": "Coronary"
+    },
+    {
+        "Species": "Human",
+        "Mousemodel": "N/A",
+        "Organ": "Heart",
+        "Condition": "Thoracic Aortic Aneurysms",
+        "IMECs marker (gene name)": "ACKR1",
+        "Gene family": "Atypical Chemokine Receptor",
+        "PMID": "35463756",
+        "Vasculature": "Coronary"
+    },
+    {
+        "Species": "Mouse",
+        "Mousemodel": "Ldlr−/− mice",
+        "Organ": "Heart",
+        "Condition": "Diabetic Atherosclerosis",
+        "IMECs marker (gene name)": "VCAM1",
+        "Gene family": "Vascular Adhesion Molecules",
+        "PMID": "34095155",
+        "Vasculature": "Coronary"
+    },
+    {
+        "Species": "Mouse",
+        "Mousemodel": "Ldlr−/− mice",
+        "Organ": "Heart",
+        "Condition": "Diabetic Atherosclerosis",
+        "IMECs marker (gene name)": "ICAM1",
+        "Gene family": "Intercellular Adhesion Molecules",
+        "PMID": "34095155",
+        "Vasculature": "Coronary"
+    },
+    {
+        "Species": "Mouse",
+        "Mousemodel": "Ldlr−/− mice",
+        "Organ": "Heart",
+        "Condition": "Diabetic Atherosclerosis",
+        "IMECs marker (gene name)": "Nfkbiz",
+        "Gene family": "Nuclear factor kappa b factor",
+        "PMID": "34095155",
+        "Vasculature": "Coronary"
+    },
+    {
+        "Species": "Human",
+        "Mousemodel": "N/A",
+        "Organ": "Kidney",
+        "Condition": "Kidney allografts (alloimmune injury)",
+        "IMECs marker (gene name)": "CXCL9",
+        "Gene family": "C-X-C motif chemokine ligand",
+        "PMID": "35657798",
+        "Vasculature": "Systemic"
+    },
+    {
+        "Species": "Human",
+        "Mousemodel": "N/A",
+        "Organ": "Kidney",
+        "Condition": "Kidney allografts (alloimmune injury)",
+        "IMECs marker (gene name)": "CXCL10",
+        "Gene family": "C-X-C motif chemokine ligand",
+        "PMID": "35657798",
+        "Vasculature": "Systemic"
+    },
+    {
+        "Species": "Human",
+        "Mousemodel": "N/A",
+        "Organ": "Kidney",
+        "Condition": "Kidney allografts (alloimmune injury)",
+        "IMECs marker (gene name)": "CXCL11",
+        "Gene family": "C-X-C motif chemokine ligand",
+        "PMID": "35657798",
+        "Vasculature": "Systemic"
+    },
+    {
+        "Species": "Human",
+        "Mousemodel": "N/A",
+        "Organ": "Kidney",
+        "Condition": "Kidney allografts (alloimmune injury)",
+        "IMECs marker (gene name)": "SELE",
+        "Gene family": "Selectin ",
+        "PMID": "35657798",
+        "Vasculature": "Systemic"
+    },
+    {
+        "Species": "Human",
+        "Mousemodel": "N/A",
+        "Organ": "Kidney",
+        "Condition": "DKD",
+        "IMECs marker (gene name)": "EDN1",
+        "Gene family": "Endothelins",
+        "PMID": "36055599",
+        "Vasculature": "Systemic"
+    },
+    {
+        "Species": "Human",
+        "Mousemodel": "N/A",
+        "Organ": "Kidney",
+        "Condition": "DKD",
+        "IMECs marker (gene name)": "TGFB1",
+        "Gene family": "Transforming growth factors",
+        "PMID": "36055599",
+        "Vasculature": "Systemic"
+    },
+    {
+        "Species": "Human",
+        "Mousemodel": "N/A",
+        "Organ": "Kidney",
+        "Condition": "DKD",
+        "IMECs marker (gene name)": "VEGFA",
+        "Gene family": "Vascular endothelial growth factors",
+        "PMID": "36055599",
+        "Vasculature": "Systemic"
+    },
+    {
+        "Species": "Human",
+        "Mousemodel": "N/A",
+        "Organ": "Kidney",
+        "Condition": "DKD",
+        "IMECs marker (gene name)": "CXCL10",
+        "Gene family": "C-X-C motif chemokine ligand",
+        "PMID": "36055599",
+        "Vasculature": "Systemic"
+    },
+    {
+        "Species": "Human",
+        "Mousemodel": "N/A",
+        "Organ": "Kidney",
+        "Condition": "Diabetic nephropathy",
+        "IMECs marker (gene name)": "PSEN1",
+        "Gene family": "Presenilin ",
+        "PMID": "34222276",
+        "Vasculature": "Systemic"
+    },
+    {
+        "Species": "Human",
+        "Mousemodel": "N/A",
+        "Organ": "Kidney",
+        "Condition": "Diabetic nephropathy",
+        "IMECs marker (gene name)": "TGFB2",
+        "Gene family": "Transforming growth factors",
+        "PMID": "34222276",
+        "Vasculature": "Systemic"
+    },
+    {
+        "Species": "Mouse",
+        "Mousemodel": "C57/Bl6",
+        "Organ": "Kidney",
+        "Condition": "NASH",
+        "IMECs marker (gene name)": "Kdr",
+        "Gene family": "Kinase Insert Domain Receptor",
+        "PMID": "31398325",
+        "Vasculature": "Systemic"
+    },
+    {
+        "Species": "Mouse",
+        "Mousemodel": "C57/Bl6",
+        "Organ": "Kidney",
+        "Condition": "NASH",
+        "IMECs marker (gene name)": "Tek",
+        "Gene family": "TEK receptor tyrosine kinase",
+        "PMID": "31398325",
+        "Vasculature": "Systemic"
+    },
+    {
+        "Species": "Mouse",
+        "Mousemodel": "C57/BL6",
+        "Organ": "Kidney",
+        "Condition": "Aging",
+        "IMECs marker (gene name)": "Vwf",
+        "Gene family": "von Willebrand factor",
+        "PMID": "34097533",
+        "Vasculature": "Systemic"
+    },
+    {
+        "Species": "Mouse",
+        "Mousemodel": "C57/BL6",
+        "Organ": "Kidney",
+        "Condition": "Aging",
+        "IMECs marker (gene name)": "Ifit3",
+        "Gene family": "Interferon Induced Protein With Tetratricopeptide Repeats",
+        "PMID": "34097533",
+        "Vasculature": "Systemic"
+    },
+    {
+        "Species": "Human",
+        "Mousemodel": "N/A",
+        "Organ": "Liver",
+        "Condition": "Liver cirrhosis",
+        "IMECs marker (gene name)": "ACKR1",
+        "Gene family": "Atypical Chemokine Receptor",
+        "PMID": "31597160",
+        "Vasculature": "Systemic"
+    },
+    {
+        "Species": "Mouse",
+        "Mousemodel": "\"C57BL/6 J"
+    },
+    {
+        "Species": "HFD mice\"",
+        "Mousemodel": "Liver",
+        "Organ": "NASH/NAFLD",
+        "Condition": "TSP",
+        "IMECs marker (gene name)": "Thrombospondin",
+        "Gene family": "33294831",
+        "PMID": "Systemic"
+    },
+    {
+        "Species": "Human",
+        "Mousemodel": "N/A",
+        "Organ": "Liver",
+        "Condition": "Ischemia Reperfucion Injury (IRI)",
+        "IMECs marker (gene name)": "CLEC4M",
+        "Gene family": "C-type lectin domain family",
+        "PMID": "34103479",
+        "Vasculature": "Systemic"
+    },
+    {
+        "Species": "Human",
+        "Mousemodel": "N/A",
+        "Organ": "Liver",
+        "Condition": "Ischemia Reperfucion Injury (IRI)",
+        "IMECs marker (gene name)": "CCL23",
+        "Gene family": "C-C Motif Chemokine Ligand",
+        "PMID": "34103479",
+        "Vasculature": "Systemic"
+    },
+    {
+        "Species": "Human",
+        "Mousemodel": "N/A",
+        "Organ": "Lung",
+        "Condition": "Idiopathic pulmonary arterial hypertension (IPAH)",
+        "IMECs marker (gene name)": "ICAM-1",
+        "Gene family": "Intercellular Adhesion Molecules",
+        "PMID": "29369345",
+        "Vasculature": "Pulmonary"
+    },
+    {
+        "Species": "Human",
+        "Mousemodel": "N/A",
+        "Organ": "Lung",
+        "Condition": "chronic thromboembolic pulmonary hypertension (CTEPH) ",
+        "IMECs marker (gene name)": "VEGFA",
+        "Gene family": "Vascular endothelial growth factors",
+        "PMID": "34965740",
+        "Vasculature": "Pulmonary"
+    },
+    {
+        "Species": "Human",
+        "Mousemodel": "N/A",
+        "Organ": "Lung",
+        "Condition": "chronic thromboembolic pulmonary hypertension (CTEPH) ",
+        "IMECs marker (gene name)": "FLT1",
+        "Gene family": "fms related receptor tyrosine kinase",
+        "PMID": "34965740",
+        "Vasculature": "Pulmonary"
+    },
+    {
+        "Species": "Human",
+        "Mousemodel": "N/A",
+        "Organ": "Lung",
+        "Condition": "chronic thromboembolic pulmonary hypertension (CTEPH) ",
+        "IMECs marker (gene name)": "PDGFB ",
+        "Gene family": "platelet derived growth factor",
+        "PMID": "34965740",
+        "Vasculature": "Pulmonary"
+    },
+    {
+        "Species": "Human",
+        "Mousemodel": "N/A",
+        "Organ": "Lung",
+        "Condition": "chronic thromboembolic pulmonary hypertension (CTEPH) ",
+        "IMECs marker (gene name)": "S1PR1",
+        "Gene family": "sphingosine-1-phosphate receptor",
+        "PMID": "34965740",
+        "Vasculature": "Pulmonary"
+    },
+    {
+        "Species": "Human",
+        "Mousemodel": "N/A",
+        "Organ": "Lung",
+        "Condition": "chronic thromboembolic pulmonary hypertension (CTEPH) ",
+        "IMECs marker (gene name)": "CXCL12",
+        "Gene family": "C-X-C motif chemokine ligand",
+        "PMID": "34965740",
+        "Vasculature": "Pulmonary"
+    },
+    {
+        "Species": "Human",
+        "Mousemodel": "N/A",
+        "Organ": "Lung",
+        "Condition": "chronic thromboembolic pulmonary hypertension (CTEPH) ",
+        "IMECs marker (gene name)": "ACKR3",
+        "Gene family": "Atypical Chemokine Receptor",
+        "PMID": "34965740",
+        "Vasculature": "Pulmonary"
+    },
+    {
+        "Species": "Human",
+        "Mousemodel": "N/A",
+        "Organ": "Lung",
+        "Condition": "chronic thromboembolic pulmonary hypertension (CTEPH) ",
+        "IMECs marker (gene name)": "IL-1B",
+        "Gene family": "Interleukins",
+        "PMID": "34965740",
+        "Vasculature": "Pulmonary"
+    },
+    {
+        "Species": "Human",
+        "Mousemodel": "N/A",
+        "Organ": "Lung",
+        "Condition": "chronic thromboembolic pulmonary hypertension (CTEPH) ",
+        "IMECs marker (gene name)": "IL-1R1",
+        "Gene family": "Interleukins",
+        "PMID": "34965740",
+        "Vasculature": "Pulmonary"
+    },
+    {
+        "Species": "Human",
+        "Mousemodel": "N/A",
+        "Organ": "Lung",
+        "Condition": "chronic thromboembolic pulmonary hypertension (CTEPH) ",
+        "IMECs marker (gene name)": "COL1A1",
+        "Gene family": "collagen type I alpha 1 chain",
+        "PMID": "34965740",
+        "Vasculature": "Pulmonary"
+    },
+    {
+        "Species": "Human",
+        "Mousemodel": "N/A",
+        "Organ": "Lung",
+        "Condition": "chronic thromboembolic pulmonary hypertension (CTEPH) ",
+        "IMECs marker (gene name)": "CD93",
+        "Gene family": "Cluster of Differentiation genes",
+        "PMID": "34965740",
+        "Vasculature": "Pulmonary"
+    },
+    {
+        "Species": "Human",
+        "Mousemodel": "N/A",
+        "Organ": "Lung",
+        "Condition": "chronic thromboembolic pulmonary hypertension (CTEPH) ",
+        "IMECs marker (gene name)": "ITGA5",
+        "Gene family": "Integrin subunit alpha 5",
+        "PMID": "34965740",
+        "Vasculature": "Pulmonary"
+    },
+    {
+        "Species": "Human",
+        "Mousemodel": "N/A",
+        "Organ": "Lung",
+        "Condition": "chronic thromboembolic pulmonary hypertension (CTEPH) ",
+        "IMECs marker (gene name)": "FN1",
+        "Gene family": "Fibronectins",
+        "PMID": "34965740",
+        "Vasculature": "Pulmonary"
+    },
+    {
+        "Species": "Human",
+        "Mousemodel": "N/A",
+        "Organ": "Lung",
+        "Condition": "chronic thromboembolic pulmonary hypertension (CTEPH) ",
+        "IMECs marker (gene name)": "ITGA6",
+        "Gene family": "Integrin subunit alpha 6",
+        "PMID": "34965740",
+        "Vasculature": "Pulmonary"
+    },
+    {
+        "Species": "Human",
+        "Mousemodel": "N/A",
+        "Organ": "Lung",
+        "Condition": "Pulmonary Fibrosis",
+        "IMECs marker (gene name)": "IDO1",
+        "Gene family": "Indoleamine 2,3-dioxygenase 1",
+        "PMID": "35998078",
+        "Vasculature": "Pulmonary"
+    },
+    {
+        "Species": "Human",
+        "Mousemodel": "N/A",
+        "Organ": "Lung",
+        "Condition": "Pulmonary Fibrosis",
+        "IMECs marker (gene name)": "ANGPT2",
+        "Gene family": "Angiopoietin 2",
+        "PMID": "35998078",
+        "Vasculature": "Pulmonary"
+    },
+    {
+        "Species": "Human",
+        "Mousemodel": "N/A",
+        "Organ": "Lung",
+        "Condition": "Healthy",
+        "IMECs marker (gene name)": "FCN3",
+        "Gene family": "Ficolin-3 gene",
+        "PMID": "34030460",
+        "Vasculature": "Pulmonary"
+    },
+    {
+        "Species": "Human",
+        "Mousemodel": "N/A",
+        "Organ": "Lung",
+        "Condition": "Healthy",
+        "IMECs marker (gene name)": "BTNL9",
+        "Gene family": "Butyrophilin Like",
+        "PMID": "34030460",
+        "Vasculature": "Pulmonary"
+    },
+    {
+        "Species": "Human",
+        "Mousemodel": "N/A",
+        "Organ": "Lung",
+        "Condition": "Healthy",
+        "IMECs marker (gene name)": "BTNL8",
+        "Gene family": "Butyrophilin Like",
+        "PMID": "34030460",
+        "Vasculature": "Pulmonary"
+    },
+    {
+        "Species": "Human",
+        "Mousemodel": "N/A",
+        "Organ": "Lung",
+        "Condition": "Healthy",
+        "IMECs marker (gene name)": "CD14",
+        "Gene family": "Cluster of Differentiation genes",
+        "PMID": "34030460",
+        "Vasculature": "Pulmonary"
+    },
+    {
+        "Species": "Human",
+        "Mousemodel": "N/A",
+        "Organ": "Lung",
+        "Condition": "Healthy",
+        "IMECs marker (gene name)": "EDN1",
+        "Gene family": "Endothelins",
+        "PMID": "34030460",
+        "Vasculature": "Pulmonary"
+    },
+    {
+        "Species": "Human",
+        "Mousemodel": "N/A",
+        "Organ": "Lung",
+        "Condition": "Healthy",
+        "IMECs marker (gene name)": "CXCL12",
+        "Gene family": "C-X-C motif chemokine ligand",
+        "PMID": "34030460",
+        "Vasculature": "Pulmonary"
+    },
+    {
+        "Species": "Mouse",
+        "Mousemodel": "C57BL/6J",
+        "Organ": "Lung",
+        "Condition": "Hypoxia & vascular remodelling",
+        "IMECs marker (gene name)": "Vwf",
+        "Gene family": "von Willebrand factor",
+        "PMID": "34594238",
+        "Vasculature": "Pulmonary"
+    },
+    {
+        "Species": "Mouse",
+        "Mousemodel": "C57BL/6J",
+        "Organ": "Lung",
+        "Condition": "Hypoxia & vascular remodelling",
+        "IMECs marker (gene name)": "Hbegf",
+        "Gene family": "Heparin-binding EGF-like growth factor",
+        "PMID": "34594238",
+        "Vasculature": "Pulmonary"
+    },
+    {
+        "Species": "Mouse",
+        "Mousemodel": "C57BL/6J",
+        "Organ": "Lung",
+        "Condition": "Hypoxia & vascular remodelling",
+        "IMECs marker (gene name)": "Edn1",
+        "Gene family": "Endothelins",
+        "PMID": "34594238",
+        "Vasculature": "Pulmonary"
+    },
+    {
+        "Species": "Mouse",
+        "Mousemodel": "tdTomatofl/fl Cdh5-CreERT2",
+        "Organ": "Lung",
+        "Condition": "acute Lung inflammatory injury",
+        "IMECs marker (gene name)": "Cd74",
+        "Gene family": "Cluster of Differentiation genes",
+        "PMID": "35511435",
+        "Vasculature": "Pulmonary"
+    },
+    {
+        "Species": "Mouse",
+        "Mousemodel": "tdTomatofl/fl Cdh5-CreERT2",
+        "Organ": "Lung",
+        "Condition": "acute Lung inflammatory injury",
+        "IMECs marker (gene name)": "H2-Aa",
+        "Gene family": "histocompatibility 2",
+        "PMID": "35511435",
+        "Vasculature": "Pulmonary"
+    },
+    {
+        "Species": "Mouse",
+        "Mousemodel": "tdTomatofl/fl Cdh5-CreERT2",
+        "Organ": "Lung",
+        "Condition": "acute Lung inflammatory injury",
+        "IMECs marker (gene name)": "H2-Ab",
+        "Gene family": "histocompatibility 2",
+        "PMID": "35511435",
+        "Vasculature": "Pulmonary"
+    },
+    {
+        "Species": "Human",
+        "Mousemodel": "N/A",
+        "Organ": "Lymph vasculture",
+        "Condition": "Healthy",
+        "IMECs marker (gene name)": "CD74",
+        "Gene family": "Cluster of Differentiation genes",
+        "PMID": "32426372",
+        "Vasculature": "Systemic"
+    },
+    {
+        "Species": "Mouse",
+        "Mousemodel": "N/A",
+        "Organ": "Lymph vasculture",
+        "Condition": "Healthy",
+        "IMECs marker (gene name)": "Madcam1",
+        "Gene family": "mucosal vascular addressin cell adhesion molecule",
+        "PMID": "32426372",
+        "Vasculature": "Systemic"
+    },
+    {
+        "Species": "Mouse",
+        "Mousemodel": "N/A",
+        "Organ": "Lymph vasculture",
+        "Condition": "Healthy",
+        "IMECs marker (gene name)": "Icam1",
+        "Gene family": "Intercellular Adhesion Molecules",
+        "PMID": "32426372",
+        "Vasculature": "Systemic"
+    },
+    {
+        "Species": "Mouse",
+        "Mousemodel": "N/A",
+        "Organ": "Lymph vasculture",
+        "Condition": "Healthy",
+        "IMECs marker (gene name)": "Vcam1",
+        "Gene family": "Vascular Adhesion Molecules",
+        "PMID": "32426372",
+        "Vasculature": "Systemic"
+    },
+    {
+        "Species": "Mouse",
+        "Mousemodel": "N/A",
+        "Organ": "Lymph vasculture",
+        "Condition": "Healthy",
+        "IMECs marker (gene name)": "Glycam1",
+        "Gene family": "Glycosylation Dependent Cell Adhesion Molecule",
+        "PMID": "32426372",
+        "Vasculature": "Systemic"
+    },
+    {
+        "Species": "Mouse",
+        "Mousemodel": "N/A",
+        "Organ": "Lymph vasculture",
+        "Condition": "Healthy",
+        "IMECs marker (gene name)": "Ccl20",
+        "Gene family": "C-C Motif Chemokine Ligand",
+        "PMID": "32426372",
+        "Vasculature": "Systemic"
+    },
+    {
+        "Species": "Mouse",
+        "Mousemodel": "N/A",
+        "Organ": "Lymph vasculture",
+        "Condition": "Healthy",
+        "IMECs marker (gene name)": "Cxcl1",
+        "Gene family": "C-X-C motif chemokine ligand",
+        "PMID": "32426372",
+        "Vasculature": "Systemic"
+    },
+    {
+        "Species": "Human",
+        "Mousemodel": "N/A",
+        "Organ": "Pancreas",
+        "Condition": "COVID-19",
+        "IMECs marker (gene name)": "AGT",
+        "Gene family": "angiotensinogen",
+        "PMID": "35394619",
+        "Vasculature": "Systemic"
+    },
+    {
+        "Species": "Human",
+        "Mousemodel": "N/A",
+        "Organ": "Pancreas",
+        "Condition": "COVID-19",
+        "IMECs marker (gene name)": "TNF-α",
+        "Gene family": "Tumor Necrosis Factors",
+        "PMID": "35394619",
+        "Vasculature": "Systemic"
+    },
+    {
+        "Species": "Human",
+        "Mousemodel": "N/A",
+        "Organ": "Pancreas",
+        "Condition": "COVID-19",
+        "IMECs marker (gene name)": "IL-1",
+        "Gene family": "Interleukins",
+        "PMID": "35394619",
+        "Vasculature": "Systemic"
+    },
+    {
+        "Species": "Human",
+        "Mousemodel": "N/A",
+        "Organ": "Pancreas",
+        "Condition": "COVID-19",
+        "IMECs marker (gene name)": "IL-6",
+        "Gene family": "Interleukins",
+        "PMID": "35394619",
+        "Vasculature": "Systemic"
+    },
+    {
+        "Species": "Human",
+        "Mousemodel": "N/A",
+        "Organ": "Pancreas",
+        "Condition": "COVID-19",
+        "IMECs marker (gene name)": "ICAM",
+        "Gene family": "Intercellular Adhesion Molecules",
+        "PMID": "35394619",
+        "Vasculature": "Systemic"
+    },
+    {
+        "Species": "Human",
+        "Mousemodel": "N/A",
+        "Organ": "Pancreas",
+        "Condition": "COVID-19",
+        "IMECs marker (gene name)": "ICAM",
+        "Gene family": "Intercellular Adhesion Molecules",
+        "PMID": "34241597",
+        "Vasculature": "Systemic"
+    },
+    {
+        "Species": "Mouse",
+        "Mousemodel": "C57BL/6J",
+        "Organ": "Retina",
+        "Condition": "Diabetic retinopathy",
+        "IMECs marker (gene name)": "S100a9",
+        "Gene family": "calcium binding protein",
+        "PMID": "34364890",
+        "Vasculature": "Systemic"
+    },
+    {
+        "Species": "Mouse",
+        "Mousemodel": "C57BL/6J",
+        "Organ": "Retina",
+        "Condition": "Diabetic retinopathy",
+        "IMECs marker (gene name)": "S100a8",
+        "Gene family": "calcium binding protein",
+        "PMID": "34364890",
+        "Vasculature": "Systemic"
+    },
+    {
+        "Species": "Mouse",
+        "Mousemodel": "C57BL/6J",
+        "Organ": "Retina",
+        "Condition": "Diabetic retinopathy",
+        "IMECs marker (gene name)": "Il1b ",
+        "Gene family": "Interleukins",
+        "PMID": "34364890",
+        "Vasculature": "Systemic"
+    },
+    {
+        "Species": "Mouse",
+        "Mousemodel": "C57BL/6J",
+        "Organ": "Retina",
+        "Condition": "Diabetic retinopathy",
+        "IMECs marker (gene name)": "Cxcl2 ",
+        "Gene family": "C-X-C motif chemokine ligand",
+        "PMID": "34364890",
+        "Vasculature": "Systemic"
+    },
+    {
+        "Species": "Mouse",
+        "Mousemodel": "C57BL/6J",
+        "Organ": "Retina",
+        "Condition": "Diabetic retinopathy",
+        "IMECs marker (gene name)": "Lcn2",
+        "Gene family": "LipocalinS",
+        "PMID": "34364890",
+        "Vasculature": "Systemic"
+    }
+]
